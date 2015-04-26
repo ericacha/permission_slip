@@ -1,5 +1,5 @@
 <h1> Field Trip Permission Slip</h1>
-Description
+<b>Description</b>
 
 Student roster app with permission slip that allows the user to add student names and also detect if they have been added or not onto the slip.
 
